@@ -3,8 +3,8 @@
 Интерактивный мобильный карьерный симулятор / образовательный экспресс-квест для привлечения молодых специалистов, студентов и выпускников (18–26 лет) на оплачиваемую летнюю практику в пиковый сезон (март — сентябрь).
 
 Ссылки на решение
-
-• Web-демо: https://dainty-smakager-969a1f.netlify.app
+pp
+• Web-демо: https://radiant-starship-718a90.netlify.app
 
 • Геймдизайн-документ (GDD): https://docs.google.com/document/d/1JnHogbluihK-NsUbbbLq4Ln8UcMnR8j0izG4U8H3FE8/edit?usp=sharing
 
