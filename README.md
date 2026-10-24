@@ -5,6 +5,7 @@
 Ссылки на решение
 
 • Web-демо: https://dainty-smakager-969a1f.netlify.app
+
 • Геймдизайн-документ (GDD): https://docs.google.com/document/d/1JnHogbluihK-NsUbbbLq4Ln8UcMnR8j0izG4U8H3FE8/edit?usp=sharing
 
 Технологический стек и оптимизация
