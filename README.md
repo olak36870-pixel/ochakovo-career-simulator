@@ -2,7 +2,7 @@
 
 Ссылки на решение (для телефона)
 
-* Web-демо: https://radiant-starship-718a90.netlify.app
+* Web-демо: https://keen-jelly-c9f60f.netlify.app
 * Скачать приложение на телефон: https://drive.google.com/file/d/1-6Uq_fwsBSxOp7SlyfCucT8v9-D8CKBP/view?usp=sharing
 * Геймдизайн-документ (GDD): https://docs.google.com/document/d/1JnHogbluihK-NsUbbbLq4Ln8UcMnR8j0izG4U8H3FE8/edit?usp=sharing
 * Видео прохождение: https://drive.google.com/file/d/1LAoytwQW73vg42ZmHQ_BJuJlU4KRemjI/view?usp=sharing
